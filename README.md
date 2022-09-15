@@ -1,6 +1,6 @@
 <h1>JSON Mini Project - Independent Supplier Stocklist</h1>
 
-A stocklist created using JSON which is then parsed to the console via JavaScript. This repo is currently under development.
+A stocklist created using JSON. The data is then parsed to the console via JavaScript. This repo is currently under development.
 
 <strong>Features</strong><br>
  - Stores a list of products, along with their:

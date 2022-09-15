@@ -1,0 +1,1 @@
+The names of products used in this repo are purely for fictional purposes and do not pertain to actual company information to the best of the repo owner's knowledge.
