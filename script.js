@@ -39,3 +39,7 @@ let stockData = `[
 console.log(stockData);                     // THE RAW DATA RETURNED IS IN ARRAY FORMAT. ADDING BACKTICKS ABOVE THEN CONVERTS THIS TO A STRING
 console.log(JSON.parse(stockData));         // THE .parse FUNCTION CONVERTS THIS STRING TO A JS OBJECT FOR MANIPULATION
 console.log(JSON.parse(stockData)[2]);      // RETURNS THE THIRD ENTRY IN THE ARRAY
+
+let stockDataOutput = JSON.parse(stockData);
+
+document.body.innerHTML = stockData;
