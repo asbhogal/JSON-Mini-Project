@@ -3,7 +3,13 @@
 A stocklist created using JSON which is then parsed to the console via JavaScript. This repo is currently under development.
 
 <strong>Features</strong><br>
- - A list of products, along with their name, quantity, size, country, bottling type and whether they have been ordered.
+ - Stores a list of products, along with their:
+    - Name
+    - Quantity
+    - Size
+    - Country
+    - Bottling type
+    - Current order status
 
  <strong>Stacks Used</strong>
 
